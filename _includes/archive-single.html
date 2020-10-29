@@ -54,6 +54,9 @@
       {% endif %}
       
       <!-- citation and icon code -->
+      {% if post.venue %}
+        <p style="color:brown; font-size: 20px;">{{post.venue}}
+      {% endif %}
       <p>
       {% if post.citation %}
         {{ post.citation }}
