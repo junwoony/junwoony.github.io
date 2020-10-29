@@ -1,6 +1,8 @@
 ---
+layout: archive
+title: "ML Course Projects"
 permalink: /projects/
-title: "Software"
+author_profile: true
 ---
 
 <sup>*</sup> Co-First Authors
