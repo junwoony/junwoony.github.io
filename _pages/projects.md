@@ -14,7 +14,8 @@ Implemented deep reinforcement learning algorithm to forecast stock prices and m
 ## Machine Learning for Data Exploration
 <p style="color:brown; font-size: 20xp;">CMU-10718 Data Analysis (Fall 2019)</p>
 Explored several statistical and visualization methods used for exploratory data analysis. Our research is published at
-[ML@CMU blog post](https://blog.ml.cmu.edu/2020/08/31/2-data-exploration/)
+<!-- [ML@CMU blog post](https://blog.ml.cmu.edu/2020/08/31/2-data-exploration/) -->
+<a href="https://blog.ml.cmu.edu/2020/08/31/2-data-exploration/" target="_blank" rel="noopener noreferrer">[ML@CMU blog post]</a>
 <img src="../images/projects/10718.png">
 
 ## Graph Convolutional Neural Network for Predicting Atomic Structures
