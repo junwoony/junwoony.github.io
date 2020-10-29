@@ -69,7 +69,7 @@
         <a href="{{ post.github }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
       {% endif %}
       {% if post.image %}
-        <img src="{{post.image}}" style="width:600px; height:500px;" frameborder="0">
+        <iframe src="{{post.image}}" style="width:600px; height:500px;"></iframe>
       {% endif %}
       </p>
     {% elsif post.collection == 'posts' and post.date %}
