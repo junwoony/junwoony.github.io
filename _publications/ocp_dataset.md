@@ -1,5 +1,5 @@
 ---
-title: The Open Catalyst 2020 (OC20) Dataset and Community Challenges
+title: <b>The Open Catalyst 2020 (OC20) Dataset and Community Challenges</b>
 collection: publications
 permalink: /publication/ocp-dataset
 date: 2020-10-20
