@@ -70,14 +70,7 @@
       {% endif %}
       {% if post.image %}
         <br>
-        <style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-        <img src="{{post.image}}" style="width:50%;">
+        <img src="{{post.image}}">
       {% endif %}
       </p>
     {% elsif post.collection == 'posts' and post.date %}
