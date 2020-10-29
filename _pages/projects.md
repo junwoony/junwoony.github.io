@@ -13,6 +13,7 @@ author_profile: true
 ## Machine Learning for Data Exploration
 <p style="color:brown; font-size: 20xp;">CMU-10718 Data Analysis (Fall 2019)</p>
 [ML@CMU blog post](https://blog.ml.cmu.edu/2020/08/31/2-data-exploration/)
+
 <img src="../images/projects/10718.png" style="width:50%;">
 
 ## Graph Convolutional Neural Network for Predicting Atomic Structures
