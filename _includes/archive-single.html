@@ -70,7 +70,18 @@
       {% endif %}
       {% if post.image %}
         <br>
-        <img src="{{post.image}}" height="300" width="1000">
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+        <img src="{{post.image}}" style="width:50%;">
+      {% if post.gif %}
+        <br>
+        <img src="{{post.gif}}">
+
       {% endif %}
       </p>
     {% elsif post.collection == 'posts' and post.date %}
