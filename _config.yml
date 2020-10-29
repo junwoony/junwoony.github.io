@@ -211,19 +211,19 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _teaching
+  # _publications
   - scope:
       path: ""
-      type: ML Projects
+      type: publications
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _projects
   - scope:
       path: ""
-      type: publications
+      type: projects
     values:
       layout: single
       author_profile: true
