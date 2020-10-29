@@ -3,7 +3,7 @@ title: "The Open Catalyst 2020 (OC20) Dataset and Community Challenges"
 collection: publications
 permalink: /publication/ocp-dataset
 date: 2020-10-20
-venue: 'arXiv:2010.09990, submitted to American Chemical Society - Catalysis'
+<!-- venue: 'arXiv:2010.09990, submitted to American Chemical Society - Catalysis' -->
 link: 'https://opencatalystproject.org/'
 project: "opencatalystproject.org"
 paperurl: 'https://arxiv.org/abs/2010.09990'

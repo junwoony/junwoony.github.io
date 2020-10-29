@@ -3,7 +3,7 @@ title: "An Introduction to Electrocatalyst Design using Machine Learning for Ren
 collection: publications
 permalink: /publication/ocp-whitepaper
 date: 2020-10-14
-venue: 'https://arxiv.org/abs/2010.09435'
+<!-- venue: 'https://arxiv.org/abs/2010.09435' -->
 link: 'https://opencatalystproject.org/'
 project: "opencatalystproject.org"
 paperurl: 'https://arxiv.org/abs/2010.09435'
