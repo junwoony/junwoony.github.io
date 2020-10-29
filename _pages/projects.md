@@ -7,11 +7,8 @@ author_profile: true
 
 {% include base_path %}
 begin 2
-site.publications
-{site.publications}
-{% site.publications % }
-{{site.publications}}
-{% for post in site.projects reversed %}
+
+{% for post in site.publications reversed %}
    post 1
   {% include archive-single.html %}
 {% endfor %}
