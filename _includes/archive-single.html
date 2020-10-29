@@ -54,10 +54,10 @@
       {% endif %}
       
       <!-- citation and icon code -->
+      <p>
       {% if post.venue %}
         <p style="color:brown; font-size: 20px;">{{post.venue}}
       {% endif %}
-      <p>
       {% if post.citation %}
         {{ post.citation }}
       {% endif %}
@@ -73,7 +73,7 @@
       {% endif %}
       {% if post.image %}
         <br>
-        <img src="{{post.image}}" width="500" height="100">
+        <img src="{{post.image}}">
       {% endif %}
       {% if post.gif %}
         <br>
