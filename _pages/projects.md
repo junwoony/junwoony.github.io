@@ -19,7 +19,7 @@ author_profile: true
 ## Graph Convolutional Neural Network for Predicting Atomic Structures
 <p style="color:brown; font-size: 20xp;">CMU-10707 Deep Learning (Spring 2019)</p>
 <a href="../files/projects/10707.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-<img src="../images/projects/10707.png">
+<img src="../images/projects/10708.png">
 
 ## Identifying Duplicate Questions using Siamese LSTM Architecture
 <p style="color:brown; font-size: 20xp;">CMU-10701 Introduction to Machine Learning PhD-level (Fall 2018)</p>
