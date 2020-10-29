@@ -55,18 +55,24 @@
       
       <!-- citation and icon code -->
       <p>
+      {% if post.venue %}
+        <p style="color:brown" "font-size:20px">{{post.venue}}</p>
       {% if post.citation %}
         {{ post.citation }}
       {% endif %}
       <br>
       {% if post.link %}
-        <a href="{{ post.link target="_blank" rel="noopener noreferrer"}}">{{post.project}}</a>
+        <a href="{{ post.link }}" target="_blank" rel="noopener noreferrer">{{post.project}}</a>
       {% endif %}
       {% if post.paperurl %}
-        <a href="{{ post.paperurl target="_blank" rel="noopener noreferrer"}}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+        <a href="{{ post.paperurl}}" target="_blank" rel="noopener noreferrer"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
       {% endif %}
       {% if post.github %}
-        <a href="{{ post.github target="_blank" rel="noopener noreferrer"}}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+        <a href="{{ post.github }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if post.image %}
+        <br>
+        <img src="{{post.image}}" height="400">
       {% endif %}
       </p>
     {% elsif post.collection == 'posts' and post.date %}
