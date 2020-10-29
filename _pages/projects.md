@@ -8,11 +8,9 @@ author_profile: true
 {% include base_path %}
 begin 2
 
-{% for post in site.publications reversed %}
+{% for post in site.projects reversed %}
    post 1
   {% include archive-single.html %}
 {% endfor %}
 
 end
-
-<sup>*</sup> Co-First Authors
