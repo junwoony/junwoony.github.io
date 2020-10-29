@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Junwoong (Jun) Yoon"
   avatar           : "profile.png"
-  bio              : "PhD Chemical Engineering\n MS Machine learning\n at Carnegie Mellon University"
+  bio              : "|+PhD Chemical Engineering\n MS Machine learning\n at Carnegie Mellon University"
   location         : "Pittsburgh, PA"
   employer         :
   pubmed           : 
