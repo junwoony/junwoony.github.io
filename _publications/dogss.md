@@ -1,13 +1,13 @@
 ---
-title: "The Open Catalyst 2020 (OC20) Dataset and Community Challenges"
+title: "Differentiable Optimization for the Prediction of Ground State Structures (DOGSS)"
 collection: publications
-permalink: /publication/ocp-dataset
-date: 2020-10-20
-venue: 'arXiv:2010.09990, submitted to American Chemical Society - Catalysis'
-link: 'https://opencatalystproject.org/'
-project: "opencatalystproject.org"
-paperurl: 'https://arxiv.org/abs/2010.09990'
-github: 'https://github.com/open-catalyst-project/ocp'
-image: '../images/publications/publications.png'
-citation: 'Lowik Chanussot*, Abhishek Das*, Siddharth Goyal*, Thibaut Lavril*, Muhammed Shuaibi*, Morgane Riviere, Kevin Tran, Javier Heras-Domingo, Caleb Ho, Weihua Hu, Aini Palizhati, Anuroop Sriram, Brandon Wood, <b>Junwoong Yoon</b>, Devi Parikh, C. Lawrence Zitnick, Zachary Ulissi'
+permalink: /publication/dogss
+date: 2020-10-21
+venue: 'Phys. Rev. Lett.'
+<!-- link: 'https://opencatalystproject.org/' -->
+<!-- project: "opencatalystproject.org" -->
+paperurl: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.173001'
+<!-- github: 'https://github.com/open-catalyst-project/ocp' -->
+image: '../images/publications/dogss.png'
+citation: '<b>Junwoong Yoon</b>, Zachary Ulissi'
 ---
