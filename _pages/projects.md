@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "ML Projects"
-permalink: /projects/
+permalink: /publications/
 author_profile: true
 ---
 
