@@ -10,3 +10,5 @@ author_profile: true
 {% for post in site.projects reversed %}
   {% include archive-single-project.html %}
 {% endfor %}
+
+<sup>*</sup> Co-First Authors
