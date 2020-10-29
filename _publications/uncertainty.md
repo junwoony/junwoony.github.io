@@ -6,5 +6,5 @@ date: 2020-05-18
 journal: 'Machine Learning: Science and Technology'
 paperurl: 'https://iopscience.iop.org/article/10.1088/2632-2153/ab7e1a'
 image: '../images/publications/uncertainty.png'
-citation: '<b>Junwoong Yoon</b>, Zachary Ulissi'
+citation: 'Kevin Tran, Willie Neiswanger, <b>Junwoong Yoon</b>, Qingyang Zhang, Eric Xing, Zachary Ulissi'
 ---
