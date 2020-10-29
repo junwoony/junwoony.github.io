@@ -14,12 +14,12 @@ author_profile: true
 <p style="color:brown; font-size: 20xp;">CMU-10718 Data Analysis (Fall 2019)</p>
 [ML@CMU blog post](https://blog.ml.cmu.edu/2020/08/31/2-data-exploration/)
 
-<img src="../images/projects/10718.png" style="width:50%;">
+<img src="../images/projects/10707.png" style="width:50%;">
 
 ## Graph Convolutional Neural Network for Predicting Atomic Structures
 <p style="color:brown; font-size: 20xp;">CMU-10707 Deep Learning (Spring 2019)</p>
 <a href="../files/projects/10707.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-<img src="../images/projects/10708.png">
+<img src="../images/projects/10707.png">
 
 ## Identifying Duplicate Questions using Siamese LSTM Architecture
 <p style="color:brown; font-size: 20xp;">CMU-10701 Introduction to Machine Learning PhD-level (Fall 2018)</p>
