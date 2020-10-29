@@ -89,7 +89,7 @@ author:
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "junwoony@andrew.cmu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://ulissigroup.cheme.cmu.edu/"
+  uri              : #"https://ulissigroup.cheme.cmu.edu/"
   bitbucket        :
   codepen          :
   dribbble         :
