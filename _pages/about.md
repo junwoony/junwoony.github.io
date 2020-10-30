@@ -16,5 +16,4 @@ I am broadly interested in developing deep learning methods for solving real-wor
 My research focuses on studying how to incorporate chemistry domain knowledge into various deep learning models to improve predictability and generalizability. 
 I work closely with collaborators at <a href="https://ai.facebook.com/" target="_blank" rel="noopener noreferrer">Facebook AI Research (FAIR)</a>, and other <a href="https://sites.google.com/view/barati" target="_blank" rel="noopener noreferrer">AI</a> and <a href="http://uhv.cheme.cmu.edu/" target="_blank" rel="noopener noreferrer">Experimental</a> groups at CMU to deploy deep learning algorithms to accelerate existing workflows and the discovery of novel inorganic materials. 
 
-
 <img src="../images/publications/co_system.gif">
