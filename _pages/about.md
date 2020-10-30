@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+TODOs:
 1. ulissi group and link and general reserach questions
 2. ML (MS and interests)
 3. OCP
