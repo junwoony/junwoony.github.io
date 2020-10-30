@@ -8,14 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-TODOs:
-1. ulissi group and link and general reserach questions
-2. ML (MS and interests)
-3. OCP
-4. DRL
-5. Others
-
 I am a [Chemical Engineering](https://www.cheme.engineering.cmu.edu/) PhD student, advised by [Zachary Ulissi](https://ulissigroup.cheme.cmu.edu/) and concurrently pursuing a MS in [Machine Learning](https://www.ml.cmu.edu/) at [Carnegie Mellon University (CMU)](https://www.cmu.edu/).
 
 I am broadly interested in developing deep learning methods for solving real-world problems related to materials design, climate change, and other engineering domains. 
