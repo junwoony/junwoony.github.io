@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<img src="../images/publications/co_system.gif">
+
 TODOs:
 1. ulissi group and link and general reserach questions
 2. ML (MS and interests)
