@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Junwoong (Jun) Yoon"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
