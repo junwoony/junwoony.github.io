@@ -5,6 +5,13 @@ permalink: /projects/
 author_profile: true
 ---
 
+## CIFAR100 Convolutional Model Based Classification Benchmark
+<p style="color:brown; font-size: 20xp;">CMU-10605 Machine Learning with Large Datasets (Fall 2020)</p>
+Implemented convolutional neural network (CNN) and combined it with traditional machine learning methods such as logistic regression and gradient boosted trees to compare their performance in CIFAR100 classification problem.
+<a href="../files/projects/10605.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+<img src="../images/projects/10605.png">
+
+
 ## Financial Assets Optimization with Reinforcement Learning Inference
 <p style="color:brown; font-size: 20xp;">CMU-10708 Probabilistic Graphical Models (Spring 2020)</p>
 Implemented deep reinforcement learning algorithm to forecast stock prices and make transactions that will maximize profit while considering financial factors which affect the stock prices.
